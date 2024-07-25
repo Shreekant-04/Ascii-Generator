@@ -29,6 +29,7 @@ Before you start, ensure you have the following installed:
    ```bash
    npm install
    npm install figlet express body-parser
+   
 3. **Run the Server**:
    Start the Node.js server to serve the application.
    ```bash
